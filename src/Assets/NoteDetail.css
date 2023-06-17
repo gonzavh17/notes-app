@@ -1,0 +1,26 @@
+.note-detail__parent{
+    display: flex;
+    justify-content: center;
+
+}
+
+.note-detail__container{
+    margin: 10%;
+    min-height: 60vh;
+}
+
+.note-detail__btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.note-detail__title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.note-detail__content{
+    font-size: 18px;
+}
